@@ -9,3 +9,11 @@ Our paper has been accepted as a Regular Paper at the IEEE International Confere
 Please install the dependencies and run the following command.
 
 ```python train/train.py```
+
+### License
+
+This repository is released under the MIT License.
+
+### Contact Us
+
+For any questions, feel free to discuss them via GitHub Issues or contact us directly at: rachelliu291@gmail.com.
